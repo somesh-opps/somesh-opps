@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/🎓-B.Tech%20CST-FF6B6B?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=FF6B6B" />
   <img src="https://img.shields.io/badge/💻-Front%20End-4ECDC4?style=for-the-badge&logo=code&logoColor=white&labelColor=4ECDC4" />
   <img src="https://img.shields.io/badge/🤖-AI%20%26%20ML-A8E6CF?style=for-the-badge&logo=robot&logoColor=white&labelColor=A8E6CF" />
+  <img src="https://img.shields.io/badge/👨‍💻-Developer-9B59B6?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=9B59B6" />
 </p>
 
 <!-- Matrix Rain Effect - JS & AI -->
