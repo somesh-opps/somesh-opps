@@ -14,14 +14,14 @@
 
 <!-- Animated Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓-B.Tech%20CSE-FF6B6B?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=FF6B6B" />
-  <img src="https://img.shields.io/badge/💻-Full%20Stack-4ECDC4?style=for-the-badge&logo=code&logoColor=white&labelColor=4ECDC4" />
+  <img src="https://img.shields.io/badge/🎓-B.Tech%20CST-FF6B6B?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=FF6B6B" />
+  <img src="https://img.shields.io/badge/💻-Front%20End-4ECDC4?style=for-the-badge&logo=code&logoColor=white&labelColor=4ECDC4" />
   <img src="https://img.shields.io/badge/🤖-AI%20%26%20ML-A8E6CF?style=for-the-badge&logo=robot&logoColor=white&labelColor=A8E6CF" />
-  <img src="https://img.shields.io/badge/🌍-India-FFD93D?style=for-the-badge&logo=location&logoColor=white&labelColor=FFD93D" />
 </p>
 
-<!-- Matrix Rain Effect -->
+<!-- Matrix Rain Effect - JS & AI -->
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
 
 ### 🎯 **Turning Dreams Into Code, One Algorithm at a Time**
 
