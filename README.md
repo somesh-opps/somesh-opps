@@ -28,75 +28,7 @@
 
 ---
 
-## � Tech Stack
-
-### 🎨 Frontend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-</p>
-
-### 🔧 Backend & Database
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-</p>
-
-### 🤖 AI/ML & Data Science
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
-</p>
-
-### ⚙️ DevOps & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/>
-</p>
-
-### 🎨 Design Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
-</p>
-
-### 🔌 Hardware & IoT
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
-</p>
-
----
-
-## 💡 Skills & Proficiency
-
-<div align="center">
-
-```text
-Python           ████████████████████░   95%
-JavaScript       ███████████████████░░   85%
-C/C++            ██████████████░░░░░░░   70%
-AI/ML            ████████████████████░   90%
-Web Development  ███████████████████░░   85%
-OpenCV           ████████████████░░░░░   80%
-Git & GitHub     ███████████████████░░   88%
-Problem Solving  ████████████████████░   95%
-```
-
-</div>
-
----
-
-## �🚀 Projects
+## 🚀 Projects
 
 ### 🔐 AI Based Child Safety System  
 ![](https://img.shields.io/badge/Hardware-Arduino-green?style=flat-square) ![](https://img.shields.io/badge/Tech-Face_Recognition-blue?style=flat-square) ![](https://img.shields.io/badge/Tech-RFID-orange?style=flat-square)
@@ -140,44 +72,20 @@ A smart medical assistant that:
 
 ---
 
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/someshkumarsahoo/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/somesh-opps" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:someshkumarsahoo28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://discord.com/" target="blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://portfolio.com/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+### I'd love to hear from you! 
+**someshkumarsahoo28@gmail.com**
 
 ---
 
-## 📊 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ███████████░░░░░   45.2%
-JavaScript   8 hrs 15 mins   ████████░░░░░░░░   29.8%
-C++          4 hrs 10 mins   ███░░░░░░░░░░░░░   15.1%
-HTML/CSS     2 hrs 45 mins   ██░░░░░░░░░░░░░░    9.9%
-```
-<!--END_SECTION:waka-->
+### Find me at:
+<p align="center">
+  <a href="https://www.linkedin.com/in/someshkumarsahoo/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
@@ -208,13 +116,6 @@ HTML/CSS     2 hrs 45 mins   ██░░░░░░░░░░░░░░   
 ![](https://github-readme-stats.vercel.app/api?username=somesh-opps&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=somesh-opps&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=somesh-opps&theme=shadow_blue&hide_border=false&layout=compact&langs_count=10&count_private=true&include_all_commits=true&hide=jupyter%20notebook)
-
----
-
-## 📈 GitHub Activity Graph
-[![Somesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=somesh-opps&theme=react-dark&hide_border=true&area=true)](https://github.com/somesh-opps)
-
----
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=somesh-opps&theme=radical&no-frame=false&no-bg=true&margin-w=4)
