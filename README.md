@@ -56,6 +56,8 @@ A high-performance, aesthetic college contest portal built with:
 
 ---
 
+### 🎮 Bluetoth
+
 ### 🧠 FarmBot - A chatbot for farmers(Ongoing)
 ![](https://img.shields.io/badge/AI-Gemini_&_Mistral-blueviolet?style=flat-square) ![](https://img.shields.io/badge/Interface-Tkinter-yellowgreen?style=flat-square)
 
@@ -111,9 +113,9 @@ A smart medical assistant that:
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=somesh-opps&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=somesh-opps&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=somesh-opps&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=somesh-opps&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=somesh-opps&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=somesh-opps&theme=radical&no-frame=false&no-bg=true&margin-w=4)
