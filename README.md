@@ -66,7 +66,7 @@ A smart medical assistant that:
 - 📷 Can upload image of crops for analysis
 - 🎤 Planned Voice Input Integration
 
-> `Python` `TypeScript` `Gemini API` `Perplexity API` `Mistral` `opencv` 
+> `Python` `TypeScript` `Gemini API` `Mistral` `opencv` 
 
 ---
 
