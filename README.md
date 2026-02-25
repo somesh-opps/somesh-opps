@@ -60,7 +60,7 @@ A high-performance, aesthetic college contest portal built with:
 ![](https://img.shields.io/badge/AI-Gemini_&_Mistral-blueviolet?style=flat-square) ![](https://img.shields.io/badge/Interface-Tkinter-yellowgreen?style=flat-square)
 
 A smart medical assistant that:
-- 🌾 Analyzes Crops using Gemini & Perplexity APIs
+- 🌾 Analyzes Crops
 - 🔁 Falls back to offline model in case of no internet
 - 🤖 Active voice assistant
 - 📷 Can upload image of crops for analysis
