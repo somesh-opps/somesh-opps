@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250"/>
 
 <!-- Simple Greeting -->
-<h1>👋 Hi, I'm Somesh</h1>
+<h1>Hi, I'm Somesh</h1>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
