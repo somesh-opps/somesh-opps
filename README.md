@@ -56,12 +56,12 @@ A high-performance, aesthetic college contest portal built with:
 
 ---
 
-### 🧠 FarmBot - A chatbot for farmers(Ongoing)
+### 🧠 FarmBot - A chatbot for farmers
 ![](https://img.shields.io/badge/AI-Gemini_&_Mistral-blueviolet?style=flat-square) ![](https://img.shields.io/badge/Interface-Tkinter-yellowgreen?style=flat-square)
 
-A smart medical assistant that:
+A smart farm assistant that:
 - 🌾 Analyzes Crops
-- 🔁 Falls back to offline model in case of no internet
+- 🔁 Local language suppport
 - 🤖 Active voice assistant
 - 📷 Can upload image of crops for analysis
 - 🎤 Planned Voice Input Integration
