@@ -130,8 +130,6 @@ A smart medical assistant that:
 ![](https://nirzak-streak-stats.vercel.app/?user=somesh-opps&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=somesh-opps&theme=shadow_blue&hide_border=false&layout=compact&langs_count=10&count_private=true&include_all_commits=true&hide=jupyter%20notebook)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=somesh-opps&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
