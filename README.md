@@ -15,16 +15,16 @@
 <!-- Animated Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/🎓-B.Tech%20CST-FF6B6B?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=FF6B6B" />
-  <img src="https://img.shields.io/badge/💻-Front%20End-4ECDC4?style=for-the-badge&logo=code&logoColor=white&labelColor=4ECDC4" />
+  <img src="https://img.shields.io/badge/💻-App Dev-4ECDC4?style=for-the-badge&logo=code&logoColor=white&labelColor=4ECDC4" />
   <img src="https://img.shields.io/badge/🤖-AI%20%26%20ML-A8E6CF?style=for-the-badge&logo=robot&logoColor=white&labelColor=A8E6CF" />
-  <img src="https://img.shields.io/badge/👨‍💻-Developer-9B59B6?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=9B59B6" />
+  <img src="https://img.shields.io/badge/👨‍💻-Backend-9B59B6?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=9B59B6" />
 </p>
 
 <!-- Matrix Rain Effect - JS & AI -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100"/>
 
-### 🎯 **Turning Dreams Into Code, One Algorithm at a Time**
+### **99 little bugs in the code, take one down, patch it around… 127 bugs in the code.**
 
 ---
 
@@ -41,6 +41,19 @@ A secure and intelligent attendance system using:
 - ✅ Ideal for Schools,Daycare Center
 
 > `Python` `OpenCV` `Flask` `NumPy` 
+
+---
+
+### 📡 Smart IoT-Based Attendance System
+![](https://img.shields.io/badge/Hardware-Raspberry_Pi-red?style=flat-square) ![](https://img.shields.io/badge/Security-Biometric_Auth-red?style=flat-square) ![](https://img.shields.io/badge/AI-Anomaly_Detection-purple?style=flat-square)
+
+A secure and intelligent attendance system using:
+- 🔐 Biometric authentication for secure student identity verification
+- 📊 Real-time attendance monitoring and session management
+- 🤖 AI-based analytics to detect anomalies and analyze attendance patterns
+- 🏫 Designed for educational institutions to prevent proxy attendance and improve monitoring
+
+> `Python` `IoT` `Machine Learning` `MongoDB`
 
 ---
 
@@ -66,9 +79,10 @@ A smart farm assistant that:
 - 📷 Can upload image of crops for analysis
 - 🎤 Planned Voice Input Integration
 
-> `Python` `TypeScript` `Gemini API` `Mistral` `opencv` 
+> `Python` `Flutter` `Gemini API` `opencv` 
 
 ---
+
 
 ### I'd love to hear from you! 
 **someshkumarsahoo28@gmail.com**
