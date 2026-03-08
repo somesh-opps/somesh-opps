@@ -24,7 +24,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100"/>
 
-### **99 little bugs in the code, take one down, patch it around… 127 bugs in the code.**
+<br/>
+
+> 🐛 **`// TODO:`** _99 little bugs in the code..._
+> _take one down, patch it around..._
+> **`// BUG COUNT: 127`** 🔥
+
+<br/>
 
 ---
 
