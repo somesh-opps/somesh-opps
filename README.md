@@ -113,11 +113,13 @@ A smart farm assistant that:
 
 ## 💻 Tech Stack
 
-```text
+<div align="center">
+<pre>
 Languages   ██████████████████████████████   Always Learning
 Frameworks  ████████████████████░░░░░░░░░░   Growing Fast
 Tools       ███████████████████░░░░░░░░░░░   Expanding Daily
-```
+</pre>
+</div>
 
 ### 〈/〉 Languages
 
