@@ -138,23 +138,6 @@ Tools       ███████████████████░░░�
 
 # 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🔥 Streak</h3>
-      </td>
-      <td align="center" width="50%">
-        <h3>📊 Stats</h3>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=somesh-opps&theme=transparent&hide_border=false&border=E4E2E2&stroke=C792EA&ring=C792EA&fire=C792EA&currStreakNum=FFE082&sideNums=C792EA&currStreakLabel=FFE082&sideLabels=C792EA&dates=8BE9FD&background=0D1117" alt="Somesh streak stats" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=somesh-opps&show_icons=true&hide_border=true&theme=midnight-purple&title_color=C792EA&text_color=E6EDF3&icon_color=8BE9FD&bg_color=0D1117,090913&count_private=true&include_all_commits=true&v=2" alt="Somesh GitHub stats" />
-      </td>
-    </tr>
-  </table>
-</div>
+| 🔥 Streak | 📊 Stats |
+| --- | --- |
+| [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=somesh-opps&theme=nightowl)](https://git.io/streak-stats)| <img src="https://github-readme-stats.vercel.app/api?username=somesh-opps&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&rank_icon=github&show_icons=true" width="100%"> |
