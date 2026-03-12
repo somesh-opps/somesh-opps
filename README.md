@@ -153,7 +153,7 @@ Tools       ███████████████████░░░�
         <img src="https://nirzak-streak-stats.vercel.app/?user=somesh-opps&theme=transparent&hide_border=false&border=E4E2E2&stroke=C792EA&ring=C792EA&fire=C792EA&currStreakNum=FFE082&sideNums=C792EA&currStreakLabel=FFE082&sideLabels=C792EA&dates=8BE9FD&background=0D1117" alt="Somesh streak stats" />
       </td>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=somesh-opps&show_icons=true&hide_border=false&border_color=30363D&title_color=C792EA&text_color=E6EDF3&icon_color=8BE9FD&bg_color=0D1117,111827&count_private=true&include_all_commits=true" alt="Somesh GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=somesh-opps&show_icons=true&hide_border=true&theme=midnight-purple&title_color=C792EA&text_color=E6EDF3&icon_color=8BE9FD&bg_color=0D1117,090913&count_private=true&include_all_commits=true&v=2" alt="Somesh GitHub stats" />
       </td>
     </tr>
   </table>
