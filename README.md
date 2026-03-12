@@ -136,9 +136,25 @@ Tools       ███████████████████░░░�
 
 ---
 
+# 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=somesh-opps&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=somesh-opps&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=somesh-opps&theme=shadow_blue&hide_border=false&layout=compact&langs_count=10&count_private=true&include_all_commits=true&hide=jupyter%20notebook)
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🔥 Streak</h3>
+      </td>
+      <td align="center" width="50%">
+        <h3>📊 Stats</h3>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=somesh-opps&theme=transparent&hide_border=false&border=E4E2E2&stroke=C792EA&ring=C792EA&fire=C792EA&currStreakNum=FFE082&sideNums=C792EA&currStreakLabel=FFE082&sideLabels=C792EA&dates=8BE9FD&background=0D1117" alt="Somesh streak stats" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=somesh-opps&show_icons=true&hide_border=false&border_color=0D1117&title_color=7C83FD&text_color=E6E6E6&icon_color=3B82F6&bg_color=0D1117,1A0B5B&count_private=true&include_all_commits=true" alt="Somesh GitHub stats" />
+      </td>
+    </tr>
+  </table>
+</div>
