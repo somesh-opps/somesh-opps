@@ -132,12 +132,3 @@ Tools       ███████████████████░░░�
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,dart,flutter,java,arduino,opencv,tailwind,docker,mongodb,flask,gcp,aws,linux,raspberrypi,git,github,vscode,postman,matlab,figma,ai&theme=dark&perline=9" />
 </p>
-
-
----
-
-# 📊 GitHub Stats
-
-| 🔥 Streak | 📊 Stats |
-| --- | --- |
-| [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=somesh-opps&theme=nightowl)](https://git.io/streak-stats)| <img src="https://github-readme-stats.vercel.app/api?username=somesh-opps&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&rank_icon=github&show_icons=true" width="100%"> |
