@@ -51,7 +51,7 @@ A smart farm assistant that:
 ---
 
 ### 🔐 AI Based Child Safety System  
-![](https://img.shields.io/badge/Hardware-Arduino-green?style=flat-square) ![](https://img.shields.io/badge/Tech-Face_Recognition-blue?style=flat-square) ![](https://img.shields.io/badge/Tech-RFID-orange?style=flat-square)
+![](https://img.shields.io/badge/Hardware-Arduino_&_RFID-green?style=flat-square) ![](https://img.shields.io/badge/Backend-Python-blue?style=flat-square) ![](https://img.shields.io/badge/Tech-Face_recogniton_&_OpenCV-orange?style=flat-square)
 
 A secure and intelligent attendance system using:
 - 🧠 Face Recognition
