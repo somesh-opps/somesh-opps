@@ -60,12 +60,12 @@ A secure and intelligent attendance system using:
 - 📱 Real-time notifications
 - ✅ Ideal for Schools,Daycare Center
 
-> `Python` `OpenCV` `Flask` `NumPy` 
+> `Python` `OpenCV` `Aeduino` `RFID` `Google Cloud`
 
 ---
 
 ### 📡 Smart IoT-Based Attendance System
-![](https://img.shields.io/badge/Hardware-Raspberry_Pi-red?style=flat-square) ![](https://img.shields.io/badge/Security-Biometric_Auth-red?style=flat-square) ![](https://img.shields.io/badge/AI-Anomaly_Detection-purple?style=flat-square)
+![](https://img.shields.io/badge/Hardware-Raspberry_Pi-red?style=flat-square) ![](https://img.shields.io/badge/Security-Biometric_Auth-blue?style=flat-square) ![](https://img.shields.io/badge/Backend-Python-purple?style=flat-square)
 
 A secure and intelligent attendance system using:
 - 🔐 Biometric authentication for secure student identity verification
@@ -73,7 +73,7 @@ A secure and intelligent attendance system using:
 - 🤖 AI-based analytics to detect anomalies and analyze attendance patterns
 - 🏫 Designed for educational institutions to prevent proxy attendance and improve monitoring
 
-> `Python` `IoT` `Machine Learning` `MongoDB`
+> `Python` `Raspberry Pi` `Machine Learning` `MongoDB` `Flutter & Dart SDK`
 
 ---
 
