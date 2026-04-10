@@ -50,6 +50,18 @@ A smart farm assistant that:
 
 ---
 
+### 🩺 Symtomate – AI Medical Assistant(Ongoing)
+![](https://img.shields.io/badge/App-Flutter_&_Dart_SDK-cyan?style=flat-square) ![](https://img.shields.io/badge/Backend-Python-green?style=flat-square) ![](https://img.shields.io/badge/AI-Symptom_Analysis-blueviolet?style=flat-square)
+
+An intelligent medical assistant app that helps users decide the next step by:
+- 📝 Accepts symptom input
+- 📱 User-friendly app interface for easy use
+- 🧭 Suggests the next medical step based on symptom analysis
+
+> `Flutter & Dart SDK` `Python` `AI/ML` `MongoDB`
+
+---
+
 ### 🔐 AI Based Child Safety System  
 ![](https://img.shields.io/badge/Hardware-Arduino_&_RFID-green?style=flat-square) ![](https://img.shields.io/badge/Backend-Python-blue?style=flat-square) ![](https://img.shields.io/badge/Tech-Face_recogniton_&_OpenCV-orange?style=flat-square)
 
@@ -64,7 +76,7 @@ A secure and intelligent attendance system using:
 
 ---
 
-### 📡 Smart IoT-Based Attendance System
+### 📡 Smart IoT-Based Attendance System(Ongoing)
 ![](https://img.shields.io/badge/Hardware-Raspberry_Pi-red?style=flat-square) ![](https://img.shields.io/badge/Security-Biometric_Auth-blue?style=flat-square) ![](https://img.shields.io/badge/Backend-Python-purple?style=flat-square)
 
 A secure and intelligent attendance system using:
@@ -76,6 +88,19 @@ A secure and intelligent attendance system using:
 > `Python` `Raspberry Pi` `Machine Learning` `MongoDB` `Flutter & Dart SDK`
 
 ---
+
+### 🅿️ SmartPark – Parking Automation 
+![](https://img.shields.io/badge/Frontend-Flutter_&_Dart_SDK-cyan?style=flat-square) ![](https://img.shields.io/badge/Databse-Firebase-green?style=flat-square) ![](https://img.shields.io/badge/Hardware-ESP32-orange?style=flat-square)
+
+A smart parking automation app that helps users quickly find available slots using:
+- 🛰️ ESP32 with parking sensors for real-time slot status detection
+- 📲 Instant user updates showing whether a parking lot is empty or occupied
+- 🚗 Faster parking decisions with reduced waiting and traffic inside parking areas
+
+> `Flutter & Dart SDK` `ESP32` `IR/Ultrasonic Sensors` `IoT`
+
+---
+
 
 ### 🌐 Orion – Web Dev Contest Portal  
 ![](https://img.shields.io/badge/Frontend-HTML/CSS/JS-cyan?style=flat-square) ![](https://img.shields.io/badge/Event-Orion-orange?style=flat-square)
