@@ -46,7 +46,7 @@ A smart farm assistant that:
 - 📷 Can upload image of crops for analysis
 - 📡 Real-time data monitoring for crop health and farm conditions
 
-> `Python` `Flutter` `Llama3.2` `opencv` `Esp32` `MongoDB`
+> `Python` `Flutter & Dart SDK` `Llama3.2` `opencv` `Esp32` `MongoDB`
 
 ---
 
