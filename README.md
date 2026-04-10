@@ -36,6 +36,20 @@
 
 ## 🚀 Projects
 
+### 🧠 CropIntel - Friend of farmers
+![](https://img.shields.io/badge/App-Flutter_&_Dart_SDK-blueviolet?style=flat-square) ![](https://img.shields.io/badge/Backend-Python-green?style=flat-square) ![](https://img.shields.io/badge/AI-Llama3.2-cyan?style=flat-square) ![](https://img.shields.io/badge/Database-MongoDB_&_Firebase-red?style=flat-square) ![](https://img.shields.io/badge/Hardware-Esp32-blue?style=flat-square)
+
+A smart farm assistant that:
+- 🌾 Analyzes Crops
+- 🔁 Local language suppport
+- 🤖 Active voice assistant
+- 📷 Can upload image of crops for analysis
+- 📡 Real-time data monitoring for crop health and farm conditions
+
+> `Python` `Flutter` `Llama3.2` `opencv` `Esp32` `MongoDB`
+
+---
+
 ### 🔐 AI Based Child Safety System  
 ![](https://img.shields.io/badge/Hardware-Arduino-green?style=flat-square) ![](https://img.shields.io/badge/Tech-Face_Recognition-blue?style=flat-square) ![](https://img.shields.io/badge/Tech-RFID-orange?style=flat-square)
 
@@ -75,19 +89,7 @@ A high-performance, aesthetic college contest portal built with:
 
 ---
 
-### 🧠 CropIntel - Friend of farmers
-![](https://img.shields.io/badge/App-Flutter_&_Dart_SDK-blueviolet?style=flat-square) ![](https://img.shields.io/badge/Backend-Python-green?style=flat-square) ![](https://img.shields.io/badge/AI-Llama3.2-cyan?style=flat-square) ![](https://img.shields.io/badge/Database-MongoDB_&_Firebase-red?style=flat-square) ![](https://img.shields.io/badge/Hardware-Esp32-blue?style=flat-square)
 
-A smart farm assistant that:
-- 🌾 Analyzes Crops
-- 🔁 Local language suppport
-- 🤖 Active voice assistant
-- 📷 Can upload image of crops for analysis
-- 📡 Real-time data monitoring for crop health and farm conditions
-
-> `Python` `Flutter` `Llama3.2` `opencv` `Esp32` `MongoDB`
-
----
 
 
 <h3>📬 I'd love to hear from you!</h3>
