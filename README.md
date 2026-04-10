@@ -76,7 +76,7 @@ A high-performance, aesthetic college contest portal built with:
 ---
 
 ### 🧠 CropIntel - Friend of farmers
-![](https://img.shields.io/badge/App-Flutter_&_Dart_SDK-blueviolet?style=flat-square) ![](https://img.shields.io/badge/Backend-Python-yellowgreen?style=flat-square) ![](https://img.shields.io/badge/AI-Llama3.2-yellowgreen?style=flat-square) ![](https://img.shields.io/badge/Database-MongoDB_&_Firebase-yellowgreen?style=flat-square)
+![](https://img.shields.io/badge/App-Flutter_&_Dart_SDK-blueviolet?style=flat-square) ![](https://img.shields.io/badge/Backend-Python-green?style=flat-square) ![](https://img.shields.io/badge/AI-Llama3.2-cyan?style=flat-square) ![](https://img.shields.io/badge/Database-MongoDB_&_Firebase-red?style=flat-square) ![](https://img.shields.io/badge/Hardware-Esp32-blue?style=flat-square)
 
 A smart farm assistant that:
 - 🌾 Analyzes Crops
