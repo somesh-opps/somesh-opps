@@ -75,17 +75,17 @@ A high-performance, aesthetic college contest portal built with:
 
 ---
 
-### 🧠 FarmBot - A chatbot for farmers
-![](https://img.shields.io/badge/AI-Gemini_&_Mistral-blueviolet?style=flat-square) ![](https://img.shields.io/badge/Interface-Tkinter-yellowgreen?style=flat-square)
+### 🧠 CropIntel - Friend of farmers
+![](https://img.shields.io/badge/App-Flutter_&_Dart_SDK-blueviolet?style=flat-square) ![](https://img.shields.io/badge/Backend-Python-yellowgreen?style=flat-square) ![](https://img.shields.io/badge/AI-Llama3.2-yellowgreen?style=flat-square) ![](https://img.shields.io/badge/Database-MongoDB_&_Firebase-yellowgreen?style=flat-square)
 
 A smart farm assistant that:
 - 🌾 Analyzes Crops
 - 🔁 Local language suppport
 - 🤖 Active voice assistant
 - 📷 Can upload image of crops for analysis
-- 🎤 Planned Voice Input Integration
+- 📡 Real-time data monitoring for crop health and farm conditions
 
-> `Python` `Flutter` `Gemini API` `opencv` 
+> `Python` `Flutter` `Llama3.2` `opencv` `Esp32` `MongoDB`
 
 ---
 
