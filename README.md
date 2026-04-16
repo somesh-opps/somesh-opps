@@ -40,7 +40,7 @@
 ![](https://img.shields.io/badge/App-Flutter_&_Dart_SDK-blueviolet?style=flat-square) ![](https://img.shields.io/badge/Backend-Python-green?style=flat-square) ![](https://img.shields.io/badge/AI-Llama3.2-cyan?style=flat-square) ![](https://img.shields.io/badge/Database-MongoDB_&_Firebase-red?style=flat-square) ![](https://img.shields.io/badge/Hardware-Esp32-blue?style=flat-square)
 
 A smart farm assistant that:
-- 🌾 Analyzes Crops
+- 🌾 Analyzes Crops health
 - 🔁 Local language suppport
 - 🤖 Active voice assistant
 - 📷 Can upload image of crops for analysis
@@ -89,7 +89,7 @@ A secure and intelligent attendance system using:
 
 ---
 
-### 🅿️ SmartPark – Parking Automation 
+### 🅿️ SmartPark – Parking Automation System
 ![](https://img.shields.io/badge/Frontend-Flutter_&_Dart_SDK-cyan?style=flat-square) ![](https://img.shields.io/badge/Databse-Firebase-green?style=flat-square) ![](https://img.shields.io/badge/Hardware-ESP32-orange?style=flat-square)
 
 A smart parking automation app that helps users quickly find available slots using:
