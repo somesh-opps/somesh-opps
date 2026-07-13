@@ -44,7 +44,7 @@ Tools       ███████████████████░░░�
 ### 〈/〉 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,dart,flutter,java,arduino,opencv,tailwind,docker,mongodb,flask,gcp,aws,linux,raspberrypi,git,github,vscode,postman,matlab,figma,ai&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,dart,flutter,java,arduino,opencv,tailwind,docker,mongodb,flask,gcp,aws,linux,raspberrypi,git,github,render,vercel,vscode,postman,matlab,figma,ai&theme=dark&perline=9" />
 </p>
 
 ---
