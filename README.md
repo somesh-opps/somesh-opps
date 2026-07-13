@@ -65,6 +65,22 @@ A smart farm assistant that:
 
 ---
 
+### 💸 MoneyMirror AI - Intelligent Financial Twin & Analytics
+![](https://img.shields.io/badge/Frontend-React_&_Vite-blue?style=flat-square) ![](https://img.shields.io/badge/Backend-FastAPI_&_Flask-green?style=flat-square) ![](https://img.shields.io/badge/AI-Whisper_&_Gemini-cyan?style=flat-square) ![](https://img.shields.io/badge/Database-MongoDB-red?style=flat-square)
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-FF5733?style=for-the-badge&logo=vercel)](https://money-mirror-ai.vercel.app/)
+
+An intelligent, AI-driven personal financial twin and analytics platform that:
+- 🏥 Diagnoses financial health and provides actionable recovery steps
+- 👯 Simulates a financial twin to project future trajectories
+- 📉 Automatically detects and monitors recurring subscriptions
+- 🎙️ Understands complex financial queries via a voice-powered chatbot
+- 🔐 Secures user-scoped data via JWT authentication and MongoDB
+
+> `React` `FastAPI` `Flask` `MongoDB` `TailwindCSS` `Python` `Vite`
+
+---
+
 ### 🩺 Symtomate – AI Medical Assistant(Ongoing)
 ![](https://img.shields.io/badge/App-Flutter_&_Dart_SDK-cyan?style=flat-square) ![](https://img.shields.io/badge/Backend-Python-green?style=flat-square) ![](https://img.shields.io/badge/AI-Symptom_Analysis-blueviolet?style=flat-square)
 
