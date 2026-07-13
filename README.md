@@ -31,6 +31,24 @@
 
 ---
 
+## 💻 Tech Stack
+
+<div align="center">
+<pre>
+Languages   ██████████████████████████████   Always Learning
+Frameworks  ████████████████████░░░░░░░░░░   Growing Fast
+Tools       ███████████████████░░░░░░░░░░░   Expanding Daily
+</pre>
+</div>
+
+### 〈/〉 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,dart,flutter,java,arduino,opencv,tailwind,docker,mongodb,flask,gcp,aws,linux,raspberrypi,git,github,vscode,postman,matlab,figma,ai&theme=dark&perline=9" />
+</p>
+
+---
+
 ## 🚀 Projects
 
 ### 🧠 CropIntel - Friend of farmers
@@ -139,20 +157,3 @@ A high-performance, aesthetic college contest portal built with:
   </a>
 </p>
 
----
-
-## 💻 Tech Stack
-
-<div align="center">
-<pre>
-Languages   ██████████████████████████████   Always Learning
-Frameworks  ████████████████████░░░░░░░░░░   Growing Fast
-Tools       ███████████████████░░░░░░░░░░░   Expanding Daily
-</pre>
-</div>
-
-### 〈/〉 Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,dart,flutter,java,arduino,opencv,tailwind,docker,mongodb,flask,gcp,aws,linux,raspberrypi,git,github,vscode,postman,matlab,figma,ai&theme=dark&perline=9" />
-</p>
