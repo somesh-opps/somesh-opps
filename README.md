@@ -54,12 +54,10 @@ Tools       ███████████████████░░░�
 ### 🛡️ AEGIS Mission Control (AEGIS Guardian)
 ![](https://img.shields.io/badge/Platform-Next.js_&_Flutter-blueviolet?style=flat-square) ![](https://img.shields.io/badge/Backend-FastAPI-green?style=flat-square) ![](https://img.shields.io/badge/AI-Gemini_&_Qwen2.5-cyan?style=flat-square) ![](https://img.shields.io/badge/Hardware-ESP32-orange?style=flat-square) ![](https://img.shields.io/badge/Vision-YOLOv8-red?style=flat-square)
 
-A comprehensive, AI-driven emergency response and campus monitoring ecosystem that fuses real-time hardware sensor data with advanced AI reasoning to detect, analyze, and instantly broadcast critical incidents.
-- 🔌 **Real-Time Sensor Fusion**: Gathers multi-modal data from custom ESP32 hardware nodes (Temperature, Gas, Flame, Motion, Distance).
-- 🧠 **AI Brain**: Analyzes fused data streams in real-time using Gemini/Qwen to identify threats, assess severity, and minimize false positives.
-- ⚡ **Instant Alerts**: Dispatches sub-second WebSocket broadcasts directly to web and mobile clients.
-- 👁️ **Computer Vision**: Integrates YOLOv8 object detection for visual threat confirmation and perimeter tracking.
-- 💻 **Cross-Platform**: Includes a Next.js operational dashboard for centralized monitoring and a Flutter mobile app for on-the-go responders.
+An AI-driven campus monitoring system that fuses real-time sensor data with AI reasoning to instantly detect and broadcast emergencies.
+- 📡 **Sensor Fusion & Vision**: Integrates multi-modal ESP32 nodes (gas, flame, motion) and YOLOv8 camera feeds.
+- 🧠 **AI Reasoning**: Uses Gemini/Qwen to filter noise, validate threats, and minimize false alarms.
+- ⚡ **Instant Command**: Dispatches sub-second WebSocket alerts to a Next.js dashboard & Flutter mobile app.
 
 > `Next.js` `Flutter` `FastAPI` `Gemini AI` `YOLOv8` `ESP32` `WebSockets`
 
