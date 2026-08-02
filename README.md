@@ -41,10 +41,24 @@ Tools       ███████████████████░░░�
 </pre>
 </div>
 
-### 〈/〉 Languages & Tools
-
+### 🔠 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,dart,flutter,java,arduino,opencv,tailwind,docker,mongodb,flask,gcp,aws,linux,raspberrypi,git,github,render,vercel,vscode,postman,matlab,figma,ai&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,dart,matlab&theme=dark" />
+</p>
+
+### 📚 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,fastapi,flask,tailwind,opencv,vite&theme=dark" />
+</p>
+
+### ☁️ Cloud & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,aws,mongodb,firebase,docker,vercel,render&theme=dark" />
+</p>
+
+### 🛠️ Tools & Hardware
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,arduino,raspberrypi,ai&theme=dark" />
 </p>
 
 ---
