@@ -58,7 +58,7 @@ Tools       ███████████████████░░░�
 
 ### 🛠️ Tools & Hardware
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,arduino,raspberrypi,esp32,ai,matlab,elevenlabs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,arduino,raspberrypi,esp,ai,matlab&theme=dark" />
 </p>
 
 ---
