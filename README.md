@@ -182,17 +182,17 @@ A high-performance, aesthetic college contest portal built with:
 
 ### 🔗 Find me at:
 <p align="center">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/badge/X-@someshkumarsahoo-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://twitter.com/someshsahoo_" target="blank">
+    <img src="https://img.shields.io/badge/X-@someshsahoo_-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/someshkumarsahoo/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-someshkumarsahoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.gg/yourdiscord" target="blank">
+  <a href="https://discord.gg/someshsahoo_" target="blank">
     <img src="https://img.shields.io/badge/Discord-someshsahoo_-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://instagram.com/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-@someshkumarsahoo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/someshsahoo_" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-@someshsahoo_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
