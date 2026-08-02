@@ -43,7 +43,7 @@ Tools       ███████████████████░░░�
 
 ### 🔠 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,dart,matlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,dart&theme=dark" />
 </p>
 
 ### 📚 Frameworks & Libraries
@@ -53,12 +53,12 @@ Tools       ███████████████████░░░�
 
 ### ☁️ Cloud & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,mongodb,firebase,docker,vercel,render&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,mongodb,firebase,docker,vercel&theme=dark" />
 </p>
 
 ### 🛠️ Tools & Hardware
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,arduino,raspberrypi,ai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,arduino,raspberrypi,esp32,ai,matlab,elevenlabs&theme=dark" />
 </p>
 
 ---
