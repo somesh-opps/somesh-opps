@@ -30,7 +30,6 @@
 
 ## 💻 Tech Stack
 
-
 ### 🔠 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,dart&theme=dark" />
