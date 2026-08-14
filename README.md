@@ -30,13 +30,6 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
-<pre>
-Languages   ██████████████████████████████   Always Learning
-Frameworks  ████████████████████░░░░░░░░░░   Growing Fast
-Tools       ███████████████████░░░░░░░░░░░   Expanding Daily
-</pre>
-</div>
 
 ### 🔠 Languages
 <p align="center">
