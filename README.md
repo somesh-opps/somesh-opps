@@ -159,20 +159,11 @@ A high-performance, aesthetic college contest portal built with:
 
 ---
 
-
-
-
 <h3>📬 I'd love to hear from you!</h3>
-<p>
+<p align="center">
   <a href="mailto:someshkumarsahoo28@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-someshkumarsahoo28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-### 🔗 Find me at:
-<p align="center">
   <a href="https://twitter.com/someshsahoo_" target="blank">
     <img src="https://img.shields.io/badge/X-@someshsahoo_-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
