@@ -58,9 +58,9 @@
 ![](https://img.shields.io/badge/Platform-Next.js_&_Flutter-blueviolet?style=flat-square) ![](https://img.shields.io/badge/Backend-FastAPI-green?style=flat-square) ![](https://img.shields.io/badge/AI-Gemini_&_Qwen2.5-cyan?style=flat-square) ![](https://img.shields.io/badge/Hardware-ESP32-orange?style=flat-square) ![](https://img.shields.io/badge/Vision-YOLOv8-red?style=flat-square)
 
 An AI-driven campus monitoring system that fuses real-time sensor data with AI reasoning to instantly detect and broadcast emergencies.
-- 📡 **Sensor Fusion & Vision**: Integrates multi-modal ESP32 nodes (gas, flame, motion) and YOLOv8 camera feeds.
-- 🧠 **AI Reasoning**: Uses Gemini/Qwen to filter noise, validate threats, and minimize false alarms.
-- ⚡ **Instant Command**: Dispatches sub-second WebSocket alerts to a Next.js dashboard & Flutter mobile app.
+- 📡 Integrates multi-modal ESP32 nodes (gas, flame, motion) and YOLOv8 camera feeds.
+- 🧠 Uses Gemini/Qwen to filter noise, validate threats, and minimize false alarms.
+- ⚡ Dispatches sub-second WebSocket alerts to a Next.js dashboard & Flutter mobile app.
 
 > `Next.js` `Flutter` `FastAPI` `Gemini AI` `YOLOv8` `ESP32` `WebSockets`
 
@@ -90,7 +90,6 @@ An intelligent, AI-driven personal financial twin and analytics platform that:
 - 👯 Simulates a financial twin to project future trajectories
 - 📉 Automatically detects and monitors recurring subscriptions
 - 🎙️ Understands complex financial queries via a voice-powered chatbot
-- 🔐 Secures user-scoped data via JWT authentication and MongoDB
 
 > `React` `FastAPI` `Flask` `MongoDB` `TailwindCSS` `Python` `Vite`
 
