@@ -47,7 +47,7 @@
 
 ### 🛠️ Tools & Hardware
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,arduino,raspberrypi,ai,matlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,arduino,raspberrypi&theme=dark" />
 </p>
 
 ---
